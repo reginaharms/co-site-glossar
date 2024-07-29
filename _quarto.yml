@@ -11,8 +11,8 @@ book:
     - cosite001.ipynb
     # - ipcc-wip.ipynb
     # - epa.ipynb
-    - resources/cct.qmd
-    - glossaries.qmd
+    # - resources/cct.qmd
+    # - glossaries.qmd
     - imprint.qmd
     - contributors.qmd 
     - references.qmd
