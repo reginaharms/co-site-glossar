@@ -4,10 +4,6 @@
   line-height: 2em !important;
 }
 
-[class$="-label"]::after{
-  content: ":";
-}
-
 [class$="-label"]::before{
   content:"\a";
   white-space: pre;
@@ -21,9 +17,4 @@ p {
   color: #1d1d1d !important;
   display: inline; 
   line-height: normal;
-}
-
-.gloss-cl-definition-label::after {
-  content:":\a";
-  white-space: pre;
 }
