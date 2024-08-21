@@ -5,7 +5,7 @@ project:
 book:
   title: "Co-Site Glossar"
   author: "Team Co-Site"
-  date: "2024-07-16"
+  date: "2024-08-21"
   chapters:
     - index.qmd
     - cosite001.ipynb

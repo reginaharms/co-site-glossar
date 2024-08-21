@@ -1,7 +1,65 @@
 # Mitwirkende
 
+Sandra Alfonso de Nehren
+
+Ilona Arcaro
+
+Muhammed Enes Bodur
+
+Nico Buck, (ORCID iD: [0009-0002-9390-1336](https://orcid.org/0009-0002-9390-1336)), TH Köln - Fakultät für Anlagen, Energie- und Maschinensysteme
+
+Anne Diessner
+
+Alexander Fekete
+
+Barbara Elisabeth Frick
+
+Claudia Frick
+
+Henny Grotehusmann
+
+Lambert Heller, (ORCID iD: [0000-0003-0232-7085](https://orcid.org/0000-0003-0232-7085)), TIB - Leibniz Informationszentrum Technik und Naturwissenschaften.
+
+Chris Hetkämper
+
+Friederike Holtmann (ORCID iD: [0009-0004-3451-0962](https://orcid.org/0009-0004-3451-0962)), TH Köln - Fakultät für Anlagen, Energie- und Maschinensysteme
+
+Carla Jakobowsky (ORCID iD: [0009-0007-8663-1856](https://orcid.org/0009-0007-8663-1856)), TH Köln - Fakultät für Anlagen, Energie- und Maschinensysteme
+
+Johanne Kaufmann
+
+Ines Könsgen (ORCID iD: [0009-0009-2260-8301](https://orcid.org/0009-0009-2260-8301)), TH Köln - Fakultät für Raumentwicklung und Infrastruktursysteme
+
+Silvia Marie Krautzik
+
+Georg Lamberty
+
+Julia Laux
+
+Isabell Mayer
+
+Silke Meilwes
+
+Larissa Müller
+
+Antti Olbrisch
+
+Juan Luis Ramirez Duval
+
+Lars Ribbe
+
+Surendra Shiwakoti
+
+Jan Terschüren (ORCID iD: [0009-0000-9016-4831](https://orcid.org/0009-0000-9016-4831)), Technische Hochschule Köln
+
+Alexandra Tönies
+
+Lars Dietrich (ORCID iD: [0000-0003-3407-166X](https://orcid.org/0000-0003-3407-166X)), Stadt Leverkusen, NaturGut Ophoven
+
 ## Programmierung
 
-Siehe: Software Citation
+Worthington, S., Bailly, K., & Rahr, A. (2024). Co-Site Glossar (Version 0.0.1a) [Computer software]. https://github.com/TIBHannover/co-site-glossar
+
+
 
 

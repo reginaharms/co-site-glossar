@@ -14,5 +14,5 @@ version: 0.0.1a
 identifiers:
   - type: doi
     value: 
-date-released: 2024-07-16
-url: "https://github.com/TIBHannover/semantic-glosar"
+date-released: 2024-08-21
+url: "https://github.com/TIBHannover/co-site-glossar"
