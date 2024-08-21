@@ -24,7 +24,7 @@
     "href": "imprint.html",
     "title": "Impressum",
     "section": "",
-    "text": "Urheberrecht und Lizensierung\nInhalt - © 2024 Die Autor:innen. Attribution-ShareAlike 4.0 International https://creativecommons.org/licenses/by-sa/4.0/\nCode - © 2024 Die Autor:innen. MIT-Lizenz https://github.com/TIBHannover/semantic-glosar/blob/master/LICENSE | Quelle https://github.com/TIBHannover/semantic-glosar\nDaten - Alle produzierten Daten und Datensätze sind CC 0, Public Domain.\nAlle Schriftarten, Grafiken und Medienproduktionssoftware, die für die Produktion verwendet werden, sind OSI-konform.\nFAIR-Grundsätze angewandt https://www.go-fair.org/fair-principles/\nAlle Inhalte und Codes von Dritten unterliegen dem Urheberrecht der Autor:innen und ihren jeweiligen OSI-konformen offenen Lizenzen für den Code und der Creative Commons Attribution-ShareAlike 4.0 International für den Inhalt.",
+    "text": "Urheberrecht und Lizensierung\nInhalt - © 2024 Die Autor:innen. Attribution-ShareAlike 4.0 International https://creativecommons.org/licenses/by-sa/4.0/\nCode - © 2024 Die Autor:innen. MIT-Lizenz https://github.com/TIBHannover/semantic-glosar/blob/master/LICENSE | Quelle https://github.com/TIBHannover/co-site-glossar\nDaten - Alle produzierten Daten und Datensätze sind CC 0, Public Domain.\nAlle Schriftarten, Grafiken und Medienproduktionssoftware, die für die Produktion verwendet werden, sind OSI-konform.\nFAIR-Grundsätze angewandt https://www.go-fair.org/fair-principles/\nAlle Inhalte und Codes von Dritten unterliegen dem Urheberrecht der Autor:innen und ihren jeweiligen OSI-konformen offenen Lizenzen für den Code und der Creative Commons Attribution-ShareAlike 4.0 International für den Inhalt.",
     "crumbs": [
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Impressum</span>"
     ]
@@ -34,9 +34,59 @@
     "href": "contributors.html",
     "title": "Mitwirkende",
     "section": "",
-    "text": "Programmierung\nSiehe: Software Citation",
+    "text": "Programmierung\nWorthington, S., Bailly, K., & Rahr, A. (2024). Co-Site Glossar (Version 0.0.1a) [Computer software]. https://github.com/TIBHannover/co-site-glossar",
     "crumbs": [
       "<span class='chapter-number'>3</span>  <span class='chapter-title'>Mitwirkende</span>"
+    ]
+  },
+  {
+    "objectID": "references.html",
+    "href": "references.html",
+    "title": "Literatur",
+    "section": "",
+    "text": "Verwaltung von Referenzen\nZotero Group: https://www.zotero.org/groups/5631396/co-site_book_sprints/library",
+    "crumbs": [
+      "Literatur"
+    ]
+  },
+  {
+    "objectID": "references.html#kritis-und-risiko--und-krisenmanagement",
+    "href": "references.html#kritis-und-risiko--und-krisenmanagement",
+    "title": "Literatur",
+    "section": "KRITIS und Risiko- und Krisenmanagement",
+    "text": "KRITIS und Risiko- und Krisenmanagement\nArnold, Rolf. 2023a. „Fortbildung - Digitales Wörterbuch Erwachsenen- und Weiterbildung“. In Fortbildung - Digitales Wörterbuch Erwachsenen- und Weiterbildung. https://doi.org/10.35468/wbeb2022-109.\n———. 2023b. „Qualifikation – Digitales Wörterbuch Erwachsenen- und Weiterbildung“. In . https://doi.org/10.35468/wbeb2022-237.\nBBK. o. J. „Sektoren und Branchen KRITIS“. Zugegriffen 21. August 2024. https://www.bbk.bund.de/DE/Themen/Kritische-Infrastrukturen/Sektoren-Branchen/sektoren-branchen_node.html.\nBMI, Referat SW I 1 - Stadtentwicklungspolitik, und Oliver Weigel. 2021. „Memorandum ‚Urbane Resilienz - Wege zur robusten, adaptiven und zukunftsfähigen Stadt‘“. Bundesministerium des Innern, für Bau und Heimat. https://www.nationale-stadtentwicklungspolitik.de/NSPWeb/SharedDocs/Publikationen/DE/Publikationen/memorandum_urbane_resilienz.pdf.\nBundesamt für Bevölkerungsschutz und Katastrophenhilfe. o. J. Glossar des Bundesamts für Bevölkerungsschutz und Katastrophenhilfe. Bundesamt für Bevölkerungsschutz und Katastrophenhilfe. Zugegriffen 20. August 2024. https://www.bbk.bund.de/DE/Infothek/Glossar/glossar_node.html.\nCIPRNet. o. J. „CIPedia“. Zugegriffen 21. August 2024. https://websites.fraunhofer.de/CIPedia/index.php/CIPedia%C2%A9_Main_Page. Dobischat, Rolf. 2023. „Berufliche Weiterbildung – Digitales Wörterbuch Erwachsenen- und Weiterbildung“. In . https://doi.org/10.35468/wbeb2022-028.\nIPCC. o. J. „IPCC Glossary“. Zugegriffen 21. August 2024. https://apps.ipcc.ch/glossary/.\nKäpplinger, Bernd. 2023. „Betriebliche Weiterbildung – Digitales Wörterbuch Erwachsenen- und Weiterbildung“. In . https://doi.org/10.35468/wbeb2022-030.\nNIST. 2019. „Glossary of Key Information Security Terms“. 2019. https://csrc.nist.gov/glossary.\nRinaldi, S.M., J.P. Peerenboom, und T.K. Kelly. 2001. „Identifying, understanding, and analyzing critical infrastructure interdependencies“. IEEE Control Systems Magazine 21 (6): 11–25. https://doi.org/10.1109/37.969131.\nRohs, Matthias. 2023. „Wissenschaftliche Weiterbildung – Digitales Wörterbuch Erwachsenen- und Weiterbildung“. In . https://doi.org/10.35468/wbeb2022-299. UNDRR. 2023. „Sendai Framework Terminology on Disaster Risk Reduction“. 9. März 2023. http://www.undrr.org/drr-glossary/terminology.",
+    "crumbs": [
+      "Literatur"
+    ]
+  },
+  {
+    "objectID": "references.html#grüne-infrastruktur",
+    "href": "references.html#grüne-infrastruktur",
+    "title": "Literatur",
+    "section": "Grüne Infrastruktur",
+    "text": "Grüne Infrastruktur\nDeutscher Wetterdienst. o. J. „Klimawirkung - Deutscher Wetterdienst“. Zugegriffen 21. August 2024. https://www.dwd.de/DE/forschung/klima_umwelt/klimawirk/klimawirk_node.html.\nNaturkapital Deutschland. o. J. „Glossar - Naturkapital Deutschland - TEEB DE“. Zugegriffen 21. August 2024. https://www.ufz.de/teebde/index.php?de=43784.",
+    "crumbs": [
+      "Literatur"
+    ]
+  },
+  {
+    "objectID": "references.html#co-design",
+    "href": "references.html#co-design",
+    "title": "Literatur",
+    "section": "Co-Design",
+    "text": "Co-Design\nGaete Cruz, M., Ersoy, A., Czischke, D., & van Bueren, E. (2022). Towards a framework for urban landscape co-design: Linking the participation ladder and the design cycle. CoDesign, 19(3), 233–252. https://doi.org/10.1080/15710882.2022.2123928",
+    "crumbs": [
+      "Literatur"
+    ]
+  },
+  {
+    "objectID": "references.html#vuca",
+    "href": "references.html#vuca",
+    "title": "Literatur",
+    "section": "VUCA",
+    "text": "VUCA\nBendel, Prof Dr Oliver. o. J. „Definition: VUCA“. Text. Springer Fachmedien Wiesbaden GmbH. Zugegriffen 21. August 2024. https://wirtschaftslexikon.gabler.de/definition/vuca-119684.",
+    "crumbs": [
+      "Literatur"
     ]
   }
 ]
