@@ -3,9 +3,10 @@ project:
   output-dir: docs
 
 book:
-  title: "Co-Site Glossar"
-  author: "Team Co-Site"
-  date: "2024-08-21"
+  title: "Glossar des Projekts"
+  subtitle: " Co-Kreation in der Region – Systemisch und innovativ Transfer entwickeln (Co-Site)"
+  author: ""
+  date: "2024-10-17"
   chapters:
     - index.qmd
     - cosite001.ipynb
@@ -37,7 +38,9 @@ format:
     theme: 'lux'
     css: 'thkoelnepub.css'
     lang: de
+
   pdf:
+    latex-engine: xelatex
     lang: de
     number-sections: false
     toc-depth: 3
@@ -57,14 +60,16 @@ format:
       - "_titlepage.tex" 
       - "before-body.tex"
     title-bg-image: "cover/thkoeln_cover.png"
-    title-bg-location: "" # UL, UR, LR, LL, leave empty for centered
+    title-bg-location: "LR" # UL, UR, LR, LL, leave empty for centered
     title-bg-size: 0.30
     title-boxcolor: gray!15!black
     title-boxopacity: 0
     title-boxfontcolor: black
-    urlcolor: thkoelnorange 
-
-
+    #colorlinks: false
+    #urlcolor: black
+    #linkcolor: black
+    #filecolor: black
+    # keep-tex: true 
   
   docx: 
     toc: true

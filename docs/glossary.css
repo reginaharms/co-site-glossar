@@ -1,20 +1,39 @@
 
-[class$="-label"], h3 {
+h3 {
   font-weight: bold;
-  line-height: 2em !important;
+  line-height: 2em !important; 
 }
 
-[class$="-label"]::before{
-  content:"\a";
-  white-space: pre;
+[class$="-label"] {
+  font-weight: bold;
+  padding: 0 0 0 0;
+}
+
+[class$="-label"]::before {
+  /*content:"\a";
+  white-space: pre;*/
 }
 
 p {
-  display: inline;
+  /* display: inline-block;*/
 }
 
 .gloss-term-all {
-  color: #1d1d1d !important;
+  color: #1d1d1d;
   display: inline; 
-  line-height: normal;
+  line-height: normal; */
+}
+
+.gloss-tag {
+ /* padding-top: 0.3em;*/
+}
+
+.gloss-acronym {
+  display: inline !important;
+  font-weight: bold;
+  margin:0 !important;
+}
+
+.gloss-term {
+  display: inline;
 }
