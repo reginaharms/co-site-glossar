@@ -3,8 +3,8 @@ project:
   output-dir: docs
 
 book:
-  title: "Glossar des Projekts"
-  subtitle: " Co-Kreation in der Region – Systemisch und innovativ Transfer entwickeln (Co-Site)"
+  title: "Glossar des Projekts Co-Kreation in der Region – Systemisch und innovativ Transfer entwickeln"
+  subtitle: "(Co-Site)"
   author: ""
   date: "2024-10-17"
   chapters:
@@ -31,7 +31,7 @@ comments:
   hypothesis: true
 
 #filters: 
-#  - "filters/phantom-section.lua"
+#  - "no-hypersetup.lua"
 
 bibliography: references.bib
 
@@ -68,11 +68,7 @@ format:
     title-boxcolor: gray!15!black
     title-boxopacity: 0
     title-boxfontcolor: black
-    pdfborderstyle: {/S/U/W 1}
-    #colorlinks: false
-    #urlcolor: black
-    #linkcolor: black
-    #filecolor: black
+    boxlinks: true
     #keep-tex: true 
   
   docx: 
