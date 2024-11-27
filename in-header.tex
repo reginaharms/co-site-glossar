@@ -18,11 +18,6 @@
 \usepackage[all]{nowidow} % prevent single lines of text at the beginning or end of a page
 \usepackage{soul} % For underlining
 
-\usepackage[utf8]{inputenc}
-
-\usepackage{hyperref}
-
-
 \setmonofont{inconsolata} % font for code bits
 
 \setmainfont{MyriadPro}[
@@ -53,27 +48,4 @@
 \titlespacing*{\subsection}{0pt}{1em}{0.1em}
 
 
-% Define a new command to apply single spacing to bold text
-\let\oldtextbf\textbf
-\renewcommand{\textbf}[1]{%
-  %\setstretch{1.0}% Set line spacing to single
-  \parskip=0.5em % Set paragraph spacing (adjust as needed)
-  \oldtextbf{#1}%
-  %\parskip=0pt % Reset paragraph spacing to default after bold text
-}
-
 \arrayrulecolor{thkoelnviolet} % table color
-
-
-% Redefine the hyperref command to underline the link text
-\let\oldhyperref\hyperref
-\renewcommand{\hyperref}[2][\empty]{%
-  \ifx\empty#1\empty
-    \oldhyperref{#2}{\underline{#2}}% If no label is passed, just underline the link text
-  \else
-    \oldhyperref[#1]{\underline{#2}}% If a label is passed, keep it and underline the link text
-  \fi
-}
-
-
-\hypersetup{draft}

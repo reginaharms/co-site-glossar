@@ -30,6 +30,9 @@ book:
 comments:
   hypothesis: true
 
+#filters: 
+#  - "filters/phantom-section.lua"
+
 bibliography: references.bib
 
 format:
@@ -40,7 +43,7 @@ format:
     lang: de
 
   pdf:
-    latex-engine: xelatex
+    #latex-engine: xelatex
     lang: de
     number-sections: false
     toc-depth: 3
@@ -65,11 +68,12 @@ format:
     title-boxcolor: gray!15!black
     title-boxopacity: 0
     title-boxfontcolor: black
+    pdfborderstyle: {/S/U/W 1}
     #colorlinks: false
     #urlcolor: black
     #linkcolor: black
     #filecolor: black
-    # keep-tex: true 
+    #keep-tex: true 
   
   docx: 
     toc: true
