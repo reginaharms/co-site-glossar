@@ -9,24 +9,13 @@ h3 {
   padding: 0 0 0 0;
 }
 
-[class$="-label"]::before {
-  /*content:"\a";
-  white-space: pre;*/
-}
-
-p {
-  /* display: inline-block;*/
-}
-
 .gloss-term-all {
   color: #1d1d1d;
   display: inline; 
-  line-height: normal; */
+  line-height: normal; 
+  font-style: normal;
 }
 
-.gloss-tag {
- /* padding-top: 0.3em;*/
-}
 
 .gloss-acronym {
   display: inline !important;
@@ -37,3 +26,13 @@ p {
 .gloss-term {
   display: inline;
 }
+
+/* a[href*="/cosite002.html#"]::before {
+  content: "Tags: ";
+  font-weight: bold;
+  font-style: normal;
+  pointer-events: none;
+  display: inline-block;
+  margin-right: 4px;
+  position: relative;
+} /*
