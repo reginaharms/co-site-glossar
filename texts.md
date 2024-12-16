@@ -1,3 +1,7 @@
+# Editing and publishing
+
+## Editing
+
 Raise a GitHub Issue for support: https://github.com/TIBHannover/co-site-glossar/issues 
 
 | Text | File to edit | Who can edit | Notes |
