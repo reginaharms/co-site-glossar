@@ -1,9 +1,22 @@
 # Über dieses Projekt {.unnumbered}
 
-Dies ist eine laufende Demonstration eines Workflows für die Erstellung von Glossaren, die Speicherung von Linked Open Data, die Ausgabe in mehreren Formaten und die Verwendung von Glossaren für die Datenanalyse - zum Beispiel für die Suche in Open-Literature-Beständen.
+Zusammen den Herausforderungen von heute und morgen begegnen – das ist das Ziel von Co-Site, einem Projekt der TH Köln. Das Projekt „Co-Kreation in der Region – Systemisch und innovativ Transfer entwickeln“ schafft einen Experimentierraum für Gesellschaft, Wirtschaft, Politik und Wissenschaft in Form eines Reallabors. Es ermöglicht damit partizipativ gestaltete Transferprozesse und unterstützt unsere Region bei der Anpassung an den Klimawandel. Gemeinsam mit den Menschen vor Ort erarbeiten die Wissenschaftler*innen Lösungen zur Entwicklung von Anpassungsstrategien sowie der Planung [kritischer] (https://tibhannover.github.io/co-site-glossar/cosite001.html#kritische-infrastrukturen) und [grün-blauer Infrastrukturen] (https://tibhannover.github.io/co-site-glossar/cosite001.html#gr%C3%BCn-blaue-infrastruktur). 
 
-Weitere Informationen über die Entwicklung des Workflows finden Sie [hier](https://github.com/TIBHannover/semantic-glossar).
+Das Forschungsprojekt Co-Site wird vom [Bundesministerium für Bildung und Forschung (BMBF)] (https://www.bmbf.de/DE/Home/home_node.html) innerhalb der [Initiative Innovative Hochschule (IHS)] (https://www.innovative-hochschule.de/) gefördert.  
 
-Ein in Bearbeitung befindliches Beispiel [(semantisches Glossar)](cosite001.ipynb) ist ebenfalls enthalten. Bei dieser Demonstration handelt es sich um ein Glossar, das mit Hilfe einer verknüpften offenen Datenspeicherung verwaltet wird. 
+Weitere Informationen zum Projekt finden Sie auf der [Website der TH Köln](https://www.th-koeln.de/forschung/co-kreation-in-der-region--systemisch-und-innovativ-transfer-entwickeln_98474.php).  
 
-Als Maßstab wurde das Glossar [Climate Change Terms](resources/cct.qmd) der US Environmental Protection Agency, @epa_climate_2013, verwendet. Die EPA verwendet einen [Terminologieservice und Leitfaden](https://www.epa.gov/web-policies-and-procedures/web-standard-glossaries) zur Erstellung und Speicherung ihrer Webglossare.
+Dieses [Glossar](cosite001.ipynb) dient dazu, die zentralen Begriffe und Konzepte des Projekts Co-Site verständlich zu erklären. Indem wir Schlüsselbegriffe und wichtige Konzepte definieren, möchten wir die Kommunikation und das Verständnis innerhalb des Projekts und darüber hinaus verbessern. Es soll einen schnellen und umfassenden Überblick über die wichtigsten Themen und Begrifflichkeiten geben, die im Kontext der Klimawandelanpassung und unseres Reallabors von Bedeutung sind. Außerdem soll es allen Beteiligten – von Studierenden und Wissenschaftler*innen bis hin zu politischen Entscheidungsträger*innen und interessierten Bürger*innen – eine nützliche Ressource bieten.
+
+```{=latex}
+\begin{figure}[b!]
+  \raggedleft
+  \begin{subfigure}[b]{0.2\linewidth}
+    \includegraphics[width=\linewidth]{images/innovative-hochschule.png}
+  \end{subfigure}
+  \raggedleft
+  \begin{subfigure}[b]{0.2\linewidth}
+    \includegraphics[width=\linewidth]{images/bmbf-logo-ohne-gefordert.png}
+  \end{subfigure}
+\end{figure}
+```
