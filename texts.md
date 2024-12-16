@@ -13,3 +13,39 @@ Raise a GitHub Issue for support: https://github.com/TIBHannover/co-site-glossar
 | Github text |  |  |  |
 | [README](https://github.com/TIBHannover/co-site-glossar/blob/main/README.md) | [README.md](https://github.com/TIBHannover/co-site-glossar/blob/main/README.md) | Editorial and Tech Support |  |
 
+## Publishing
+
+### Publishing process
+
+  1. Fill out Zenodo records
+  2. Sign off Zenodo records
+  3. Update metadata in publication and Git
+  4. Sign off publication
+  5. Make Git Release for Git DOI
+  6. Upload publication files and data to Zenodo
+  7. Link Zenodo records
+  8. Final sign off on publication and Zenodo Metadata
+  9. Publish! Publishing on Zenodo - publication and data
+  10. Publishing complete.
+
+### Glossary publication
+
+Reserved DOI: 10.5281/zenodo.14500453
+
+Preview: https://zenodo.org/records/14500453?preview=1&token=eyJhbGciOiJIUzUxMiIsImlhdCI6MTczNDM1MDM3OCwiZXhwIjoxNzM1NjAzMTk5fQ.eyJpZCI6ImY1NmYxM2NiLTNmOGMtNDE2My04YzMzLTBhZWM2Yzc4ZGFkYiIsImRhdGEiOnt9LCJyYW5kb20iOiJmZjQ1NzFjNThiNDkxNzY4NGU1Y2ZlMWFjODJiMjA5OSJ9.J3oBHM4ud29g8dVLGwSvrVGLdyWpZ_YVx3s79pBDUp-Nyx3Mcyesl3ZTH9X_QiSiBNKJPAYCmbR-t5zgzXg-IA 
+
+To edit the publication record please request access: simon.worthington@tib.eu
+
+Please fiil out all fields.
+
+### Glossary as data
+
+To be confirmed
+
+### Glossary as Git repository 
+
+To be confiremed
+
+
+
+
